@@ -140,9 +140,10 @@ console.log(z)
 
 //Comparision
 
-let Number =21;
+/*let Number =21;
 if(Number%2 ==0){
     console.log("Even")
 }else{
     console.log("Odd")
 }
+*/
